@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(210, 194, 225);
+}
+
+
+
+
+.navbar-nav{
+    height:700px ;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: -35px;
+    left: 0;
+    background-color: blueviolet;
+    overflow: hidden;
+    font-size: xx-large;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+.subheading {
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+   
+
+}
+.lead{
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+   
+    
+} 
+
+.logo2 {
+    margin-left: 40px;
+    font-weight: 300;
+    width: 100px;
+    border-width: 20px;
+    border-radius: 100px;
+}
+
+.logo{
+    
+    font-size:xx-small ;
+    margin-left: 500px;
+}
+h1{
+    font-size: xx-large;
+    margin-left: 600px;
+}
+.navbar-nav a{
+
+    font-family: monospace;
+    display: block;
+    color: black;
+    font-weight: 600;
+padding: 20px;
+    text-align: center;
+    
+    text-decoration: none;
+}
+.navbar-nav a:hover{
+   transform: translate(-34px);
+}
+.cart{
+    width: 200px;
+    height: 330px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+   cursor: pointer; 
+   margin: 10px 15px ;
+   border-radius: 0;
+   background-position: center;
+   background-size:cover;
+   transition: transform 0.5;
+   
+    color: #ffffff;  
+}
+h5{
+    color: red;
+    text-align: center;
+}
+.cart:hover{
+    border-radius: 0;
+    transform: translatey(30px);
+}
+.cart2{
+    width: 200px;
+    height: 330px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+   cursor: pointer; 
+   margin: 10px 15px ;
+   border-radius: 0;
+   background-position: center;
+   background-size:cover;
+   transition: transform 0.5;
+   
+   
+    color: #ffffff;   
+}
+.cart2:hover{
+    border-radius: 0;
+    transform: translatey(30px);
+}
+.cart3{
+    width: 200px;
+    height: 330px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+   cursor: pointer; 
+   margin: 10px 15px ;
+   border-radius: 0;
+   background-position: center;
+   background-size:cover;
+   transition: transform 0.5;
+   
+    color: #ffffff;   
+}
+.cart3:hover{
+    border-radius: 0;
+    transform: translatey(30px);
+}
+h2{
+  text-align: center;
+  font-size: xx-large;
+    color: black;
+}
+
+
